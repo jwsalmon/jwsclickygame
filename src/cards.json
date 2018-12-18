@@ -1,0 +1,68 @@
+[{
+    "id": 1,
+    "image": "./src/assets/images/67corvette.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./src/assets/images/70GTX.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./src/assets/images/442.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./src/assets/images/boss429.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./src/assets/images/Charger.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./src/assets/images/dart.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 7,
+    "image": "./src/assets/images/Firebird.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 8,
+    "image": "./src/assets/images/MG_MGA.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 9,
+    "image": "./src/assets/images/MGA.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 10,
+    "image": "./src/assets/images/SS454.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 11,
+    "image": "./src/assets/images/TorinoCorbra.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 12,
+    "image": "./src/assets/images/yenko.jpg",
+    "clicked": false
+
+  }
+]

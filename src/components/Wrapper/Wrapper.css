@@ -1,0 +1,13 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url("../../assets/images/AmericanMuscleCar.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
