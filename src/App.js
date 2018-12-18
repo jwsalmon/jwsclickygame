@@ -55,7 +55,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Week Memory!",
+      rightWrong: "Sorry Start Over! ",
       clicked: []
     });
     this.handleShuffle();
@@ -86,13 +86,13 @@ class App extends Component {
             {this.state.cars.map(cars => (
               <Column size="md-3 sm-6">
                 <Card
-                  key={cars.id}
                   handleClick={this.handleClick}
                   handleIncrement={this.handleIncrement}
                   handleReset={this.handleReset}
                   handleShuffle={this.handleShuffle}
                   id={cars.id}
                   image={cars.image}
+                  key={cars.id}
                 />
               </Column>
             ))}
