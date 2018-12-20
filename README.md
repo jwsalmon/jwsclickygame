@@ -7,6 +7,8 @@ Here is a screen shot of the app:
 Here is a short movie that shows the functionality of game:
 ![Car Clicky Game](./src/assets/images/CarClickyGame.mov)
 
+<h2>The Car Clicky Game can be played at <a href=' https://jwsalmon.github.io/jwsclickygame/'><h2>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
