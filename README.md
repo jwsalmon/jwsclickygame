@@ -1,3 +1,12 @@
+# jwsclickygame
+This is a memory app. You are trying to click all cars presented without clicking the same car twice. The cars are randomized each time you click so you have to remember which ones you have already clicked.
+
+Here is a screen shot of the app:
+![Car Clicky game](./src/assets/images/CarClickyGame.png)
+
+Here is a short movie that shows the functionality of game:
+![Car Clicky Game](./src/assets/images/CarClickyGame.mov)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,4 +51,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# jwsclickygame
+
